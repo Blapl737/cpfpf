@@ -1,0 +1,107 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  display: flex;
+  justify-content: center;
+  background-color: #939393;
+}
+
+.Cont {
+  
+  width: 1197px;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.AddForm {
+  margin-top: 50px;
+  width: 100%;
+  height: 153px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+  background-color: #f8f8f8;
+  border-radius: 15px;
+
+}
+
+.AddForm input {
+  width: 301px;
+  height: 35px;
+  padding: 10px;
+  font-size: 25px;
+}
+
+.AddForm button {
+  width: 231px;
+  height: 59px;
+  background-color: #8BA1F6;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  font-size: 30px;
+  cursor: pointer;
+}
+
+
+
+.ProductList {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  
+}
+
+
+.ProductItem {
+  text-align: center;
+  font-size: 25px;
+  
+  width: 267px;
+  height: 182px;
+  background-color: #8BA1F6;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+
+}
+
+
+.ProductItem p {
+  margin-top: 15px;
+  font-size: 18px;
+ 
+}
+
+.Counter {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.Counter button {
+  width: 30px;
+  height: 30px;
+  color: #000000;
+  border: none;
+  font-size: 18px;
+  background-color: #8BA1F6;
+  cursor: pointer;
+  font-size: 30px;
+}
+

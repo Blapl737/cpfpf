@@ -1,0 +1,24 @@
+.Header{
+    background-color: beige;
+    display: flex;
+    width: 1440px;
+    height: 840px;
+    display: inline-block;
+    margin-top: -20px;
+    margin-left: -20px
+}
+.h1{
+    margin-top: 170px;
+    margin-left: 200px;
+    color: rgb(47, 66, 189);
+    width: 610px;
+    height: 90px;
+    font-size: 48px;
+}
+
+.p{
+    margin-top: 30px;
+    font-size: 24px;
+    margin-left: 200px;
+    color: rgb(47, 66, 189);
+}

@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Blapl737/cpg.git/static/css/main.1ed85256.css",
+    "main.js": "/Blapl737/cpg.git/static/js/main.42102d67.js",
+    "static/media/dino.svg": "/Blapl737/cpg.git/static/media/dino.06bdbdb76efe417bb13fefe664ed8819.svg",
+    "static/media/velosec.png": "/Blapl737/cpg.git/static/media/velosec.fce69acb4941cce6136a.png",
+    "static/media/imagevelo.png": "/Blapl737/cpg.git/static/media/imagevelo.7b4b2e807f7c716ca191.png",
+    "static/media/logo.png": "/Blapl737/cpg.git/static/media/logo.c445a87ac03da37f1fc2.png",
+    "index.html": "/Blapl737/cpg.git/index.html",
+    "main.1ed85256.css.map": "/Blapl737/cpg.git/static/css/main.1ed85256.css.map",
+    "main.42102d67.js.map": "/Blapl737/cpg.git/static/js/main.42102d67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ed85256.css",
+    "static/js/main.42102d67.js"
+  ]
+}

@@ -1,0 +1,27 @@
+.RentalSection{
+    display: inline-block;
+    background-color: white;
+    width: 1440px;
+    height: 800px;
+    margin-top: -25px;
+    margin-left: -7.5px;
+    color: white;
+}
+
+.text{
+    margin-top: -500px;
+    margin-left: 650px;
+    font-style: italic;
+}
+
+.h111{
+    text-align: center;
+    color: rgb(47, 66, 189);
+    font-size: 40px;
+}
+
+.p1111{
+    text-align: center;
+    color: rgb(47, 66, 189);
+    font-size: 25px;
+}

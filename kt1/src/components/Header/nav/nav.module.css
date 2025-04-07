@@ -1,0 +1,32 @@
+.Nav{
+    display: flex;
+    width: 311px;
+    height: 30px;
+    margin-top: -65px;
+    margin-left: 530px;
+
+}
+.nav1{
+    margin-right: 40px;
+    margin-top: 10px;
+}
+.nav1:hover{
+    text-decoration: underline;
+}
+
+.nav2{
+    margin-right: 40px;
+    margin-top: 10px;
+}
+
+.nav2:hover{
+    text-decoration: underline;
+}
+
+.nav3{
+    margin-top: 10px;
+}
+
+.nav3:hover{
+    text-decoration: underline;
+}

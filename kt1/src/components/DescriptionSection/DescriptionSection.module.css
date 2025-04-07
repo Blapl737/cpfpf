@@ -1,0 +1,18 @@
+.DescriptionSection{
+    background-color: white;
+    display: flex;
+    width: 1440px;
+    height: 633px;
+    display: inline-block;
+    margin-top: -25px;
+    margin-left: -7.5px;
+    text-align: center;
+
+}
+
+.p11{
+    margin-top: 200px;
+    font-size: 20px;
+    font-style: italic;
+    color: rgb(47, 66, 189);
+}
